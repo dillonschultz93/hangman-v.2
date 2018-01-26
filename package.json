@@ -1,0 +1,22 @@
+{
+  "name": "hangman-v.2",
+  "version": "1.0.0",
+  "description": "A CLI hangman game",
+  "main": "CLI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillonschultz93/hangman-v.2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dillonschultz93/hangman-v.2/issues"
+  },
+  "homepage": "https://github.com/dillonschultz93/hangman-v.2#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
